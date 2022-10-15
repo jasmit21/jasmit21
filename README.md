@@ -5,7 +5,7 @@
 - 📫 How to reach me : jasmitrathod21@gmail.com
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmit21&layout=Demo&theme=synthwave)](https://github.com/jasmit21/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmit21&layout=Demo&theme=synthwave)](https://github.com/jasmit21/github-readme-stats) 
 
 <!--![](https://komarev.com/ghpvc/?username=PurpleVen&color=f222ff&label=PROFILE+VIEWS)-->
 
