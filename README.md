@@ -1,16 +1,17 @@
-### Hi there 👋
+- 👋 Hi, I’m @jasmit
+- 👀 I’m interested in anything that intrigues me. 
+- 🌱 I’m currently learning coding.
+- 💞️ I’m looking forward to collaborate on projects and more of coding.
+- 📫 How to reach me : jasmitrathod21@gmail.com
 
-<!--
-**jasmit21/jasmit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmit21&layout=Demo&theme=synthwave)](https://github.com/jasmit21/github-readme-stats) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--![](https://komarev.com/ghpvc/?username=PurpleVen&color=f222ff&label=PROFILE+VIEWS)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmit21&layout=compact&theme=synthwave)](https://github.com/jasmit21/github-readme-stats)
+
+<!---
+jasmit21/jasmit21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
