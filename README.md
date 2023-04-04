@@ -17,7 +17,7 @@
 Thank you for visiting my GitHub profile!
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tushar4303&color=blueviolet" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=jasmit21&color=blueviolet" alt="watching_count" />
 </p>
 
 
