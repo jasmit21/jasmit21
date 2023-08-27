@@ -10,7 +10,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmit21&layout=compact&theme=synthwave)](https://github.com/jasmit21/github-readme-stats)
-
+<!--
 ## 📈 GitHub Stats
 
 [![Jasmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmit21&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +23,7 @@ Thank you for visiting my GitHub profile!
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jasmit21&color=blueviolet" alt="watching_count" />
 </p>
-
+--->
 
 
 <!---
